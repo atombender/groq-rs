@@ -1,0 +1,6 @@
+[package]
+name = "groq-rq"
+version = "0.1.0"
+authors = ["Alexander Staubo <alex@purefiction.net>"]
+
+[dependencies]
